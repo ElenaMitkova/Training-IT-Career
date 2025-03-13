@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\bin\Debug\From 1 to 20.exe.config
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\bin\Debug\From 1 to 20.exe
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\bin\Debug\From 1 to 20.pdb
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\obj\Debug\From 1 to 20.csproj.AssemblyReference.cache
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\obj\Debug\From 1 to 20.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\obj\Debug\From 1 to 20.exe
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\From 1 to 20\obj\Debug\From 1 to 20.pdb
