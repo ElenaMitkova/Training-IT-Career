@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\bin\Debug\From Radians to gradus.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\bin\Debug\From Radians to gradus.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\bin\Debug\From Radians to gradus.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\obj\Debug\From Radians to gradus.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\obj\Debug\From Radians to gradus.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\obj\Debug\From Radians to gradus.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\From Radians to gradus\obj\Debug\From Radians to gradus.pdb

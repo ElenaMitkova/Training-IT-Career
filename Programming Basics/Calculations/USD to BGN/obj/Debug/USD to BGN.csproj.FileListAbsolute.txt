@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\bin\Debug\USD to BGN.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\bin\Debug\USD to BGN.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\bin\Debug\USD to BGN.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\obj\Debug\USD to BGN.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\obj\Debug\USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\obj\Debug\USD to BGN.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\USD to BGN\obj\Debug\USD to BGN.pdb

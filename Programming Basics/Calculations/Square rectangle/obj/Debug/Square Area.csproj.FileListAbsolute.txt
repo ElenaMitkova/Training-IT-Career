@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\bin\Debug\Square rectangle.exe.config
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\bin\Debug\Square rectangle.exe
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\bin\Debug\Square rectangle.pdb
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\obj\Debug\Square Area.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\obj\Debug\Square Area.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\obj\Debug\Square rectangle.exe
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Четене и печатане от конзолата )\Square rectangle\obj\Debug\Square rectangle.pdb

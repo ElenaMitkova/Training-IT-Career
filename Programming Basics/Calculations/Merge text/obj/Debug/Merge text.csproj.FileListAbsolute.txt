@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\bin\Debug\Merge text.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\bin\Debug\Merge text.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\bin\Debug\Merge text.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\obj\Debug\Merge text.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\obj\Debug\Merge text.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\obj\Debug\Merge text.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Четене и печатане от конзолата )\Merge text\obj\Debug\Merge text.pdb
