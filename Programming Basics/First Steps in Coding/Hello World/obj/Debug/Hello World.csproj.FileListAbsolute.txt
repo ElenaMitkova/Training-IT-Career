@@ -1,0 +1,14 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\bin\Debug\Hello World.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.pdb
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\bin\Debug\Hello World.exe
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.exe
+C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Hello World\obj\Debug\Hello World.pdb
