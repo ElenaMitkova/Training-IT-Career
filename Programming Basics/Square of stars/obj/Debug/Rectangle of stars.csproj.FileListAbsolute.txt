@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\bin\Debug\Rectangle of stars.exe.config
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\bin\Debug\Rectangle of stars.exe
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\bin\Debug\Rectangle of stars.pdb
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\obj\Debug\Rectangle of stars.csproj.AssemblyReference.cache
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\obj\Debug\Rectangle of stars.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\obj\Debug\Rectangle of stars.exe
-C:\Users\Acer\source\repos\Programming Basics\It Kariera ( Първа конзолна програма )\Rectangle of stars\obj\Debug\Rectangle of stars.pdb
