@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\bin\Debug\4-Сгъни и събери.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\bin\Debug\4-Сгъни и събери.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\bin\Debug\4-Сгъни и събери.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\obj\Debug\4-Сгъни и събери.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\obj\Debug\4-Сгъни и събери.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\obj\Debug\4-Сгъни и събери.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Сгъни и събери\obj\Debug\4-Сгъни и събери.pdb

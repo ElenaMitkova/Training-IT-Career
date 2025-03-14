@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\bin\Debug\3-Индекс на буква.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\bin\Debug\3-Индекс на буква.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\bin\Debug\3-Индекс на буква.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\obj\Debug\3-Индекс на буква.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\obj\Debug\3-Индекс на буква.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\obj\Debug\3-Индекс на буква.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Индекс на буква\obj\Debug\3-Индекс на буква.pdb

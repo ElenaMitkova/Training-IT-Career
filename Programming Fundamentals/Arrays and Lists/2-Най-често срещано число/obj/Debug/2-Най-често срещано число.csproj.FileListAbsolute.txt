@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\bin\Debug\2-Най-често срещано число.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\bin\Debug\2-Най-често срещано число.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\bin\Debug\2-Най-често срещано число.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\obj\Debug\2-Най-често срещано число.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\obj\Debug\2-Най-често срещано число.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\obj\Debug\2-Най-често срещано число.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Най-често срещано число\obj\Debug\2-Най-често срещано число.pdb

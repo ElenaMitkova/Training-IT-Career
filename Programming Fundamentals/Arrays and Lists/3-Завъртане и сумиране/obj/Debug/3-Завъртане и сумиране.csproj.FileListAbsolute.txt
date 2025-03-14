@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\bin\Debug\3-Завъртане и сумиране.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\bin\Debug\3-Завъртане и сумиране.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\bin\Debug\3-Завъртане и сумиране.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\obj\Debug\3-Завъртане и сумиране.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\obj\Debug\3-Завъртане и сумиране.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\obj\Debug\3-Завъртане и сумиране.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\3-Завъртане и сумиране\obj\Debug\3-Завъртане и сумиране.pdb

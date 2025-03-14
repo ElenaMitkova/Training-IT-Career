@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\bin\Debug\4-Преобразуване на масив в число.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\bin\Debug\4-Преобразуване на масив в число.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\bin\Debug\4-Преобразуване на масив в число.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\obj\Debug\4-Преобразуване на масив в число.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\obj\Debug\4-Преобразуване на масив в число.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\obj\Debug\4-Преобразуване на масив в число.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\4-Преобразуване на масив в число\obj\Debug\4-Преобразуване на масив в число.pdb

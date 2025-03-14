@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\bin\Debug\2-Обръщане на масив от символни низове.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\bin\Debug\2-Обръщане на масив от символни низове.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\bin\Debug\2-Обръщане на масив от символни низове.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\obj\Debug\2-Обръщане на масив от символни низове.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\obj\Debug\2-Обръщане на масив от символни низове.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\obj\Debug\2-Обръщане на масив от символни низове.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа с масиви )\2-Обръщане на масив от символни низове\obj\Debug\2-Обръщане на масив от символни низове.pdb
