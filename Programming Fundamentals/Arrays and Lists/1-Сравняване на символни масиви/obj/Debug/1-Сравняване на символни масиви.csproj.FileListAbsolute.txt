@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\bin\Debug\1-Сравняване на символни масиви.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\bin\Debug\1-Сравняване на символни масиви.exe
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\bin\Debug\1-Сравняване на символни масиви.pdb
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\obj\Debug\1-Сравняване на символни масиви.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\obj\Debug\1-Сравняване на символни масиви.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\obj\Debug\1-Сравняване на символни масиви.exe
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\1-Сравняване на символни масиви\obj\Debug\1-Сравняване на символни масиви.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\bin\Debug\5-Сортиране.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\bin\Debug\5-Сортиране.exe
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\bin\Debug\5-Сортиране.pdb
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\obj\Debug\5-Сортиране.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\obj\Debug\5-Сортиране.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\obj\Debug\5-Сортиране.exe
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\5-Сортиране\obj\Debug\5-Сортиране.pdb

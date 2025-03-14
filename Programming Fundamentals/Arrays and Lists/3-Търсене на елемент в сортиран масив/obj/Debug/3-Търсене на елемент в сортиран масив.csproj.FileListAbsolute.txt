@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\bin\Debug\3-Търсене на елемент в сортиран масив.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\bin\Debug\3-Търсене на елемент в сортиран масив.exe
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\bin\Debug\3-Търсене на елемент в сортиран масив.pdb
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\obj\Debug\3-Търсене на елемент в сортиран масив.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\obj\Debug\3-Търсене на елемент в сортиран масив.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\obj\Debug\3-Търсене на елемент в сортиран масив.exe
+C:\Users\Acer\source\repos\It Kariera ( Сортиране на масив )\3-Търсене на елемент в сортиран масив\obj\Debug\3-Търсене на елемент в сортиран масив.pdb
