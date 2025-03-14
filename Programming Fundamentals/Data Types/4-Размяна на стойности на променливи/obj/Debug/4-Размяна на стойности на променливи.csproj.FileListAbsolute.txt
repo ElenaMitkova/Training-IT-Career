@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\bin\Debug\4-Размяна на стойности на променливи.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\bin\Debug\4-Размяна на стойности на променливи.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\bin\Debug\4-Размяна на стойности на променливи.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\obj\Debug\4-Размяна на стойности на променливи.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\obj\Debug\4-Размяна на стойности на променливи.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\obj\Debug\4-Размяна на стойности на променливи.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\4-Размяна на стойности на променливи\obj\Debug\4-Размяна на стойности на променливи.pdb

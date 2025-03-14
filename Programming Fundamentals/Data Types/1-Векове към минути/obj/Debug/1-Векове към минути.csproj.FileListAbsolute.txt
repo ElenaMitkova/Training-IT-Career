@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\bin\Debug\It Kariera ( Типове данни целочислени типове данни ).exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\bin\Debug\It Kariera ( Типове данни целочислени типове данни ).exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\bin\Debug\It Kariera ( Типове данни целочислени типове данни ).pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\obj\Debug\1-Векове към минути.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\obj\Debug\1-Векове към минути.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\obj\Debug\It Kariera ( Типове данни целочислени типове данни ).exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\It Kariera ( Типове данни целочислени типове данни )\obj\Debug\It Kariera ( Типове данни целочислени типове данни ).pdb

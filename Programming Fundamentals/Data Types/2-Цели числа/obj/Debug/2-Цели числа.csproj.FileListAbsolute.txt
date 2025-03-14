@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\bin\Debug\2-Цели числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\bin\Debug\2-Цели числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\bin\Debug\2-Цели числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\obj\Debug\2-Цели числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\obj\Debug\2-Цели числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\obj\Debug\2-Цели числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\2-Цели числа\obj\Debug\2-Цели числа.pdb

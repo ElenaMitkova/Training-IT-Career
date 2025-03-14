@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\bin\Debug\6-Делене на цели числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\bin\Debug\6-Делене на цели числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\bin\Debug\6-Делене на цели числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\obj\Debug\6-Делене на цели числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\obj\Debug\6-Делене на цели числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\obj\Debug\6-Делене на цели числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\6-Делене на цели числа\obj\Debug\6-Делене на цели числа.pdb

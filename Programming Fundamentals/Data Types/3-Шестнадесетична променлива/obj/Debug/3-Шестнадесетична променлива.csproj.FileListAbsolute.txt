@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\bin\Debug\3-Шестнадесетична променлива.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\bin\Debug\3-Шестнадесетична променлива.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\bin\Debug\3-Шестнадесетична променлива.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\obj\Debug\3-Шестнадесетична променлива.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\obj\Debug\3-Шестнадесетична променлива.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\obj\Debug\3-Шестнадесетична променлива.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни целочислени типове данни )\3-Шестнадесетична променлива\obj\Debug\3-Шестнадесетична променлива.pdb
