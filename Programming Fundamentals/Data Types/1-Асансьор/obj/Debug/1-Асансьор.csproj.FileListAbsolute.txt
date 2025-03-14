@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\bin\Debug\1-Асансьор.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\bin\Debug\1-Асансьор.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\bin\Debug\1-Асансьор.pdb
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\obj\Debug\1-Асансьор.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\obj\Debug\1-Асансьор.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\obj\Debug\1-Асансьор.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\1-Асансьор\obj\Debug\1-Асансьор.pdb

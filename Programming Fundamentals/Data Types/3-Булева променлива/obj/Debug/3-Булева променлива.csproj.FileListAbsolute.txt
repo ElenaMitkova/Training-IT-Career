@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\bin\Debug\3-Булева променлива.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\bin\Debug\3-Булева променлива.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\bin\Debug\3-Булева променлива.pdb
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\obj\Debug\3-Булева променлива.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\obj\Debug\3-Булева променлива.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\obj\Debug\3-Булева променлива.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\3-Булева променлива\obj\Debug\3-Булева променлива.pdb

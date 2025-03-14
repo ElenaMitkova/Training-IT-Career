@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\bin\Debug\4-Тройки латински букви.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\bin\Debug\4-Тройки латински букви.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\bin\Debug\4-Тройки латински букви.pdb
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\obj\Debug\4-Тройки латински букви.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\obj\Debug\4-Тройки латински букви.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\obj\Debug\4-Тройки латински букви.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\4-Тройки латински букви\obj\Debug\4-Тройки латински букви.pdb

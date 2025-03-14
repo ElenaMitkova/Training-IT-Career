@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\bin\Debug\2-Специални числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\bin\Debug\2-Специални числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\bin\Debug\2-Специални числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\obj\Debug\2-Специални числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\obj\Debug\2-Специални числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\obj\Debug\2-Специални числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Преобразуване на типове данни )\2-Специални числа\obj\Debug\2-Специални числа.pdb
