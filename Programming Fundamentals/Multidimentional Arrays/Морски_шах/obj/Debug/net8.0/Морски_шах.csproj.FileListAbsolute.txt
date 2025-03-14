@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\bin\Debug\net8.0\Морски_шах.exe
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\bin\Debug\net8.0\Морски_шах.deps.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\bin\Debug\net8.0\Морски_шах.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\bin\Debug\net8.0\Морски_шах.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\bin\Debug\net8.0\Морски_шах.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\refint\Морски_шах.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\Морски_шах.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Морски_шах\obj\Debug\net8.0\ref\Морски_шах.dll

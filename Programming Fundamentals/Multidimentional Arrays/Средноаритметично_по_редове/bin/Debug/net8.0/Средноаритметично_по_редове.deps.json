@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Средноаритметично_по_редове/1.0.0": {
+        "runtime": {
+          "Средноаритметично_по_редове.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Средноаритметично_по_редове/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

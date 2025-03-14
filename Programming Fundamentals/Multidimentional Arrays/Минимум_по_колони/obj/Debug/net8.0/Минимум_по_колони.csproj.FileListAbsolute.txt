@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\bin\Debug\net8.0\Минимум_по_колони.exe
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\bin\Debug\net8.0\Минимум_по_колони.deps.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\bin\Debug\net8.0\Минимум_по_колони.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\bin\Debug\net8.0\Минимум_по_колони.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\bin\Debug\net8.0\Минимум_по_колони.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\refint\Минимум_по_колони.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\Минимум_по_колони.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Минимум_по_колони\obj\Debug\net8.0\ref\Минимум_по_колони.dll

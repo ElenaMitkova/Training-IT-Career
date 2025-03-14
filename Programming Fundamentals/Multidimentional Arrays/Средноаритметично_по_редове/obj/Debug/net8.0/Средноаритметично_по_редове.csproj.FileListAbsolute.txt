@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\bin\Debug\net8.0\Средноаритметично_по_редове.exe
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\bin\Debug\net8.0\Средноаритметично_по_редове.deps.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\bin\Debug\net8.0\Средноаритметично_по_редове.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\bin\Debug\net8.0\Средноаритметично_по_редове.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\bin\Debug\net8.0\Средноаритметично_по_редове.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\refint\Средноаритметично_по_редове.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\Средноаритметично_по_редове.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Средноаритметично_по_редове\obj\Debug\net8.0\ref\Средноаритметично_по_редове.dll
