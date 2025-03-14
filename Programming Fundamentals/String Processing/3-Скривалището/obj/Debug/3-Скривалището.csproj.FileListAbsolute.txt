@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\bin\Debug\3-Скривалището.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\bin\Debug\3-Скривалището.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\bin\Debug\3-Скривалището.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\obj\Debug\3-Скривалището.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\obj\Debug\3-Скривалището.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\obj\Debug\3-Скривалището.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\3-Скривалището\obj\Debug\3-Скривалището.pdb

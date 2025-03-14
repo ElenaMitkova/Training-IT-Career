@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\bin\Debug\2-Само букви.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\bin\Debug\2-Само букви.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\bin\Debug\2-Само букви.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\obj\Debug\2-Само букви.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\obj\Debug\2-Само букви.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\obj\Debug\2-Само букви.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\2-Само букви\obj\Debug\2-Само букви.pdb

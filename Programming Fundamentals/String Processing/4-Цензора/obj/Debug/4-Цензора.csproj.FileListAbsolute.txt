@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\bin\Debug\4-Цензора.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\bin\Debug\4-Цензора.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\bin\Debug\4-Цензора.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\obj\Debug\4-Цензора.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\obj\Debug\4-Цензора.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\obj\Debug\4-Цензора.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\4-Цензора\obj\Debug\4-Цензора.pdb

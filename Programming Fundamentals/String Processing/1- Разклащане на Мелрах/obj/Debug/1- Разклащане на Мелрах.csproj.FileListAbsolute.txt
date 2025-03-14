@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\bin\Debug\1- Разклащане на Мелрах.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\bin\Debug\1- Разклащане на Мелрах.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\bin\Debug\1- Разклащане на Мелрах.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\obj\Debug\1- Разклащане на Мелрах.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\obj\Debug\1- Разклащане на Мелрах.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\obj\Debug\1- Разклащане на Мелрах.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 3 )\1- Разклащане на Мелрах\obj\Debug\1- Разклащане на Мелрах.pdb
