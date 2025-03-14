@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\bin\Debug\1-Конвертор за температури.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\bin\Debug\1-Конвертор за температури.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\bin\Debug\1-Конвертор за температури.pdb
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\obj\Debug\1-Конвертор за температури.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\obj\Debug\1-Конвертор за температури.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\obj\Debug\1-Конвертор за температури.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\1-Конвертор за температури\obj\Debug\1-Конвертор за температури.pdb

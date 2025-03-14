@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\bin\Debug\3-Повдигане на степен.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\bin\Debug\3-Повдигане на степен.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\bin\Debug\3-Повдигане на степен.pdb
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\obj\Debug\3-Повдигане на степен.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\obj\Debug\3-Повдигане на степен.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\obj\Debug\3-Повдигане на степен.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\3-Повдигане на степен\obj\Debug\3-Повдигане на степен.pdb

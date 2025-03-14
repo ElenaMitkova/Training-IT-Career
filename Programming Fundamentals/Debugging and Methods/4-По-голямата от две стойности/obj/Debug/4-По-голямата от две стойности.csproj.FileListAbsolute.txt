@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\bin\Debug\4-По-голямата от две стойности.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\bin\Debug\4-По-голямата от две стойности.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\bin\Debug\4-По-голямата от две стойности.pdb
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\obj\Debug\4-По-голямата от две стойности.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\obj\Debug\4-По-голямата от две стойности.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\obj\Debug\4-По-голямата от две стойности.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи.Връщане на стойности и предефиниране )\4-По-голямата от две стойности\obj\Debug\4-По-голямата от две стойности.pdb
