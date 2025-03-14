@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\bin\Debug\10-Сума на знаци.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\bin\Debug\10-Сума на знаци.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\bin\Debug\10-Сума на знаци.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\obj\Debug\10-Сума на знаци.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\obj\Debug\10-Сума на знаци.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\obj\Debug\10-Сума на знаци.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\10-Сума на знаци\obj\Debug\10-Сума на знаци.pdb

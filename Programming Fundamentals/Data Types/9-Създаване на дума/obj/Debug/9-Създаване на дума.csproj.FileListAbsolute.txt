@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\bin\Debug\9-Създаване на дума.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\bin\Debug\9-Създаване на дума.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\bin\Debug\9-Създаване на дума.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\obj\Debug\9-Създаване на дума.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\obj\Debug\9-Създаване на дума.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\obj\Debug\9-Създаване на дума.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\9-Създаване на дума\obj\Debug\9-Създаване на дума.pdb

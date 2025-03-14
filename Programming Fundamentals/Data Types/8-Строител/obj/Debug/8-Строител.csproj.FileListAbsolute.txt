@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\bin\Debug\8-Строител.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\bin\Debug\8-Строител.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\bin\Debug\8-Строител.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\obj\Debug\8-Строител.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\obj\Debug\8-Строител.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\obj\Debug\8-Строител.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\8-Строител\obj\Debug\8-Строител.pdb

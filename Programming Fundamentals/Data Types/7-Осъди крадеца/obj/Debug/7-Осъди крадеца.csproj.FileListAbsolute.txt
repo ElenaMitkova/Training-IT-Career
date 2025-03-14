@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\bin\Debug\7-Осъди крадеца.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\bin\Debug\7-Осъди крадеца.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\bin\Debug\7-Осъди крадеца.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\obj\Debug\7-Осъди крадеца.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\obj\Debug\7-Осъди крадеца.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\obj\Debug\7-Осъди крадеца.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\7-Осъди крадеца\obj\Debug\7-Осъди крадеца.pdb

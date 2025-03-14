@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\bin\Debug\6-Дръж крадеца.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\bin\Debug\6-Дръж крадеца.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\bin\Debug\6-Дръж крадеца.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\obj\Debug\6-Дръж крадеца.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\obj\Debug\6-Дръж крадеца.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\obj\Debug\6-Дръж крадеца.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\6-Дръж крадеца\obj\Debug\6-Дръж крадеца.pdb
