@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\bin\Debug\1-Сортиране на числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\bin\Debug\1-Сортиране на числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\bin\Debug\1-Сортиране на числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\obj\Debug\1-Сортиране на числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\obj\Debug\1-Сортиране на числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\obj\Debug\1-Сортиране на числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\1-Сортиране на числа\obj\Debug\1-Сортиране на числа.pdb

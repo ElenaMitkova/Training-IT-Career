@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\bin\Debug\2-Числа квадрати.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\bin\Debug\2-Числа квадрати.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\bin\Debug\2-Числа квадрати.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\obj\Debug\2-Числа квадрати.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\obj\Debug\2-Числа квадрати.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\obj\Debug\2-Числа квадрати.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за масиви )\2-Числа квадрати\obj\Debug\2-Числа квадрати.pdb
