@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\bin\Debug\1-Магически променящи се думи.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\bin\Debug\1-Магически променящи се думи.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\bin\Debug\1-Магически променящи се думи.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\obj\Debug\1-Магически променящи се думи.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\obj\Debug\1-Магически променящи се думи.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\obj\Debug\1-Магически променящи се думи.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\1-Магически променящи се думи\obj\Debug\1-Магически променящи се думи.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\bin\Debug\2-Сбор на големи числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\bin\Debug\2-Сбор на големи числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\bin\Debug\2-Сбор на големи числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\obj\Debug\2-Сбор на големи числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\obj\Debug\2-Сбор на големи числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\obj\Debug\2-Сбор на големи числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\2-Сбор на големи числа\obj\Debug\2-Сбор на големи числа.pdb

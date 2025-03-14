@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\bin\Debug\3-Умножаване на големи числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\bin\Debug\3-Умножаване на големи числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\bin\Debug\3-Умножаване на големи числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\obj\Debug\3-Умножаване на големи числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\obj\Debug\3-Умножаване на големи числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\obj\Debug\3-Умножаване на големи числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със символни низове и текст 2 )\3-Умножаване на големи числа\obj\Debug\3-Умножаване на големи числа.pdb
