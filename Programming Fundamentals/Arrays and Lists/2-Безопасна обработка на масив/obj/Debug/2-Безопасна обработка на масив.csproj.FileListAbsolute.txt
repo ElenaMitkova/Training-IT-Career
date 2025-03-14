@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\bin\Debug\2-Безопасна обработка на масив.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\bin\Debug\2-Безопасна обработка на масив.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\bin\Debug\2-Безопасна обработка на масив.pdb
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\obj\Debug\2-Безопасна обработка на масив.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\obj\Debug\2-Безопасна обработка на масив.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\obj\Debug\2-Безопасна обработка на масив.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\2-Безопасна обработка на масив\obj\Debug\2-Безопасна обработка на масив.pdb

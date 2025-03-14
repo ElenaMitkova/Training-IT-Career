@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\bin\Debug\4-Извличане на средните 1, 2 или 3 елемента.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\bin\Debug\4-Извличане на средните 1, 2 или 3 елемента.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\bin\Debug\4-Извличане на средните 1, 2 или 3 елемента.pdb
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\obj\Debug\4-Извличане на средните 1, 2 или 3 елемента.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\obj\Debug\4-Извличане на средните 1, 2 или 3 елемента.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\obj\Debug\4-Извличане на средните 1, 2 или 3 елемента.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\4-Извличане на средните 1, 2 или 3 елемента\obj\Debug\4-Извличане на средните 1, 2 или 3 елемента.pdb

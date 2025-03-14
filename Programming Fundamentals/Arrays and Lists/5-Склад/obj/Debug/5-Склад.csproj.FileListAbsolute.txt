@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\bin\Debug\5-Склад.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\bin\Debug\5-Склад.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\bin\Debug\5-Склад.pdb
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\obj\Debug\5-Склад.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\obj\Debug\5-Склад.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\obj\Debug\5-Склад.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\5-Склад\obj\Debug\5-Склад.pdb

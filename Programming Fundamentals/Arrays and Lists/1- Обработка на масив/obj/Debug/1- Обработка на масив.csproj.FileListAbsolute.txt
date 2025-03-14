@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\bin\Debug\1- Обработка на масив.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\bin\Debug\1- Обработка на масив.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\bin\Debug\1- Обработка на масив.pdb
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\obj\Debug\1- Обработка на масив.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\obj\Debug\1- Обработка на масив.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\obj\Debug\1- Обработка на масив.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\1- Обработка на масив\obj\Debug\1- Обработка на масив.pdb

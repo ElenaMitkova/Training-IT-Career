@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\bin\Debug\Множество от сумите на последните k числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\bin\Debug\Множество от сумите на последните k числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\bin\Debug\Множество от сумите на последните k числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\obj\Debug\3-Множество от сумите на последните k числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\obj\Debug\3-Множество от сумите на последните k числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\obj\Debug\Множество от сумите на последните k числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Задачи върху масиви )\Множество от сумите на последните k числа\obj\Debug\Множество от сумите на последните k числа.pdb
