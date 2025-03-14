@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\bin\Debug\3-Точна сума на реални числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\bin\Debug\3-Точна сума на реални числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\bin\Debug\3-Точна сума на реални числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\obj\Debug\3-Точна сума на реални числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\obj\Debug\3-Точна сума на реални числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\obj\Debug\3-Точна сума на реални числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\3-Точна сума на реални числа\obj\Debug\3-Точна сума на реални числа.pdb

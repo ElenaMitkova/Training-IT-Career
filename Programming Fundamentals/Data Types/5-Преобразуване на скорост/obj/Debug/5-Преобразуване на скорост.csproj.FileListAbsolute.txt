@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\bin\Debug\5-Преобразуване на скорост.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\bin\Debug\5-Преобразуване на скорост.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\bin\Debug\5-Преобразуване на скорост.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\obj\Debug\5-Преобразуване на скорост.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\obj\Debug\5-Преобразуване на скорост.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\obj\Debug\5-Преобразуване на скорост.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\5-Преобразуване на скорост\obj\Debug\5-Преобразуване на скорост.pdb

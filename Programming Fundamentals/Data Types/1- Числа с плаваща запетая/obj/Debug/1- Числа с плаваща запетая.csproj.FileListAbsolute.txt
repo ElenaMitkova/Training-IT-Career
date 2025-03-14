@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\bin\Debug\1- Числа с плаваща запетая.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\bin\Debug\1- Числа с плаваща запетая.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\bin\Debug\1- Числа с плаваща запетая.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\obj\Debug\1- Числа с плаваща запетая.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\obj\Debug\1- Числа с плаваща запетая.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\obj\Debug\1- Числа с плаваща запетая.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\1- Числа с плаваща запетая\obj\Debug\1- Числа с плаваща запетая.pdb

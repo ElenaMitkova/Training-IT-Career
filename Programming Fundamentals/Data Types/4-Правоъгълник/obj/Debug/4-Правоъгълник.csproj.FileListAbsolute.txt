@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\bin\Debug\4-Правоъгълник.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\bin\Debug\4-Правоъгълник.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\bin\Debug\4-Правоъгълник.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\obj\Debug\4-Правоъгълник.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\obj\Debug\4-Правоъгълник.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\obj\Debug\4-Правоъгълник.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни реални типове данни )\4-Правоъгълник\obj\Debug\4-Правоъгълник.pdb
