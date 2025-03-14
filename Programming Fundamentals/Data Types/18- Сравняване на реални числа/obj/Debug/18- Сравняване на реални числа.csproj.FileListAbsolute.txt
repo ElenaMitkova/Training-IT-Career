@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\bin\Debug\18- Сравняване на реални числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\bin\Debug\18- Сравняване на реални числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\bin\Debug\18- Сравняване на реални числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\obj\Debug\18- Сравняване на реални числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\obj\Debug\18- Сравняване на реални числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\obj\Debug\18- Сравняване на реални числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\18- Сравняване на реални числа\obj\Debug\18- Сравняване на реални числа.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\bin\Debug\19-Изведете част от ASCII таблицата.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\bin\Debug\19-Изведете част от ASCII таблицата.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\bin\Debug\19-Изведете част от ASCII таблицата.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\obj\Debug\19-Изведете част от ASCII таблицата.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\obj\Debug\19-Изведете част от ASCII таблицата.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\obj\Debug\19-Изведете част от ASCII таблицата.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\19-Изведете част от ASCII таблицата\obj\Debug\19-Изведете част от ASCII таблицата.pdb
