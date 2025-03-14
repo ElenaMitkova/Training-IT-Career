@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\bin\Debug\CashReceipt.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\bin\Debug\CashReceipt.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\bin\Debug\CashReceipt.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\obj\Debug\CashReceipt.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\obj\Debug\CashReceipt.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\obj\Debug\CashReceipt.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\CashReceipt\obj\Debug\CashReceipt.pdb

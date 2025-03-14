@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\bin\Debug\EvenOddSumMultiplicatio n.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\bin\Debug\EvenOddSumMultiplicatio n.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\bin\Debug\EvenOddSumMultiplicatio n.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\obj\Debug\EvenOddSumMultiplicatio n.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\obj\Debug\EvenOddSumMultiplicatio n.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\obj\Debug\EvenOddSumMultiplicatio n.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\EvenOddSumMultiplicatio n\obj\Debug\EvenOddSumMultiplicatio n.pdb
