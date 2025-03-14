@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\bin\Debug\3-Price Change Alert.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\bin\Debug\3-Price Change Alert.exe
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\bin\Debug\3-Price Change Alert.pdb
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\obj\Debug\3-Price Change Alert.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\obj\Debug\3-Price Change Alert.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\obj\Debug\3-Price Change Alert.exe
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\3-Price Change Alert\obj\Debug\3-Price Change Alert.pdb

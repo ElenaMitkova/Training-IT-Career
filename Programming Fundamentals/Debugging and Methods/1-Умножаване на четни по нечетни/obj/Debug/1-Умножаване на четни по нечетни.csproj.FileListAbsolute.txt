@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\bin\Debug\1-Умножаване на четни по нечетни.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\bin\Debug\1-Умножаване на четни по нечетни.exe
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\bin\Debug\1-Умножаване на четни по нечетни.pdb
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\obj\Debug\1-Умножаване на четни по нечетни.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\obj\Debug\1-Умножаване на четни по нечетни.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\obj\Debug\1-Умножаване на четни по нечетни.exe
+C:\Users\Acer\source\repos\It Kariera ( Дебъгване и ред на изпълнение )\1-Умножаване на четни по нечетни\obj\Debug\1-Умножаване на четни по нечетни.pdb
