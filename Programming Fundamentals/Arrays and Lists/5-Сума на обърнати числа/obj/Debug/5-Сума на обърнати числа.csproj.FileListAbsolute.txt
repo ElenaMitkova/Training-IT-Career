@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\bin\Debug\5-Сума на обърнати числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\bin\Debug\5-Сума на обърнати числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\bin\Debug\5-Сума на обърнати числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\obj\Debug\5-Сума на обърнати числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\obj\Debug\5-Сума на обърнати числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\obj\Debug\5-Сума на обърнати числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\5-Сума на обърнати числа\obj\Debug\5-Сума на обърнати числа.pdb

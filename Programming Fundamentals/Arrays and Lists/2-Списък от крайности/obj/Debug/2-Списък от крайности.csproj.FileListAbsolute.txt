@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\bin\Debug\2-Списък от крайности.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\bin\Debug\2-Списък от крайности.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\bin\Debug\2-Списък от крайности.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\obj\Debug\2-Списък от крайности.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\obj\Debug\2-Списък от крайности.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\obj\Debug\2-Списък от крайности.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\2-Списък от крайности\obj\Debug\2-Списък от крайности.pdb

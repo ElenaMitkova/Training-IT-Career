@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\bin\Debug\1-Списък от четни числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\bin\Debug\1-Списък от четни числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\bin\Debug\1-Списък от четни числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\obj\Debug\1-Списък от четни числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\obj\Debug\1-Списък от четни числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\obj\Debug\1-Списък от четни числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\1-Списък от четни числа\obj\Debug\1-Списък от четни числа.pdb

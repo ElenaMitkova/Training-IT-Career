@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\bin\Debug\4-Максимална поредица еднакви числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\bin\Debug\4-Максимална поредица еднакви числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\bin\Debug\4-Максимална поредица еднакви числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\obj\Debug\4-Максимална поредица еднакви числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\obj\Debug\4-Максимална поредица еднакви числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\obj\Debug\4-Максимална поредица еднакви числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – обхождания )\4-Максимална поредица еднакви числа\obj\Debug\4-Максимална поредица еднакви числа.pdb
