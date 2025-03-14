@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\bin\Debug\LeftRightSum.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\bin\Debug\LeftRightSum.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\bin\Debug\LeftRightSum.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\obj\Debug\LeftRightSum.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\obj\Debug\LeftRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\obj\Debug\LeftRightSum.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LeftRightSum\obj\Debug\LeftRightSum.pdb

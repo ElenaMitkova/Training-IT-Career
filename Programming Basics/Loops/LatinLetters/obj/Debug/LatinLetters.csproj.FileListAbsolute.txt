@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\bin\Debug\LatinLetters.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\bin\Debug\LatinLetters.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\bin\Debug\LatinLetters.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\obj\Debug\LatinLetters.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\obj\Debug\LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\obj\Debug\LatinLetters.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\LatinLetters\obj\Debug\LatinLetters.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\bin\Debug\EvenOddSums.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\bin\Debug\EvenOddSums.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\bin\Debug\EvenOddSums.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\obj\Debug\EvenOddSums.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\obj\Debug\EvenOddSums.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\obj\Debug\EvenOddSums.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\EvenOddSums\obj\Debug\EvenOddSums.pdb
