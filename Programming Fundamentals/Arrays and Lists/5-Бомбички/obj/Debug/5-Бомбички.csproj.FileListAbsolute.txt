@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\bin\Debug\5-Бомбички.exe.config
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\bin\Debug\5-Бомбички.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\bin\Debug\5-Бомбички.pdb
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\obj\Debug\5-Бомбички.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\obj\Debug\5-Бомбички.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\obj\Debug\5-Бомбички.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\5-Бомбички\obj\Debug\5-Бомбички.pdb

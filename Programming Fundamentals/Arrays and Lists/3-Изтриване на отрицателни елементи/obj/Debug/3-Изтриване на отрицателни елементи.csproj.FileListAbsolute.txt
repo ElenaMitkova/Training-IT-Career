@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\bin\Debug\3-Изтриване на отрицателни елементи.exe.config
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\bin\Debug\3-Изтриване на отрицателни елементи.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\bin\Debug\3-Изтриване на отрицателни елементи.pdb
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\obj\Debug\3-Изтриване на отрицателни елементи.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\obj\Debug\3-Изтриване на отрицателни елементи.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\obj\Debug\3-Изтриване на отрицателни елементи.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\3-Изтриване на отрицателни елементи\obj\Debug\3-Изтриване на отрицателни елементи.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\bin\Debug\4-Сливане на списъци.exe.config
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\bin\Debug\4-Сливане на списъци.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\bin\Debug\4-Сливане на списъци.pdb
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\obj\Debug\4-Сливане на списъци.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\obj\Debug\4-Сливане на списъци.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\obj\Debug\4-Сливане на списъци.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\4-Сливане на списъци\obj\Debug\4-Сливане на списъци.pdb

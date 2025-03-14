@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\bin\Debug\2-Премахни числото.exe.config
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\bin\Debug\2-Премахни числото.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\bin\Debug\2-Премахни числото.pdb
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\obj\Debug\2-Премахни числото.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\obj\Debug\2-Премахни числото.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\obj\Debug\2-Премахни числото.exe
+C:\Users\Acer\source\repos\It Kariera (  Списъци – манипулации )\2-Премахни числото\obj\Debug\2-Премахни числото.pdb
