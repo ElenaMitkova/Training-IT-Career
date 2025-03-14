@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\bin\Debug\3-Променлив списък.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\bin\Debug\3-Променлив списък.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\bin\Debug\3-Променлив списък.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\obj\Debug\3-Променлив списък.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\obj\Debug\3-Променлив списък.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\obj\Debug\3-Променлив списък.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\3-Променлив списък\obj\Debug\3-Променлив списък.pdb

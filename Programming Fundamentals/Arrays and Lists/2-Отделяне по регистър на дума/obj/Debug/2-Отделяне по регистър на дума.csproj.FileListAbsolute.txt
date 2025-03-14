@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\bin\Debug\2-Отделяне по регистър на дума.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\bin\Debug\2-Отделяне по регистър на дума.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\bin\Debug\2-Отделяне по регистър на дума.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\obj\Debug\2-Отделяне по регистър на дума.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\obj\Debug\2-Отделяне по регистър на дума.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\obj\Debug\2-Отделяне по регистър на дума.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\2-Отделяне по регистър на дума\obj\Debug\2-Отделяне по регистър на дума.pdb

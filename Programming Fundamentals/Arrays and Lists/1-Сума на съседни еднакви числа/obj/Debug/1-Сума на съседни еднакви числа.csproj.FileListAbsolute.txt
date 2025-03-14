@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\bin\Debug\1-Сума на съседни еднакви числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\bin\Debug\1-Сума на съседни еднакви числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\bin\Debug\1-Сума на съседни еднакви числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\obj\Debug\1-Сума на съседни еднакви числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\obj\Debug\1-Сума на съседни еднакви числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\obj\Debug\1-Сума на съседни еднакви числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\1-Сума на съседни еднакви числа\obj\Debug\1-Сума на съседни еднакви числа.pdb

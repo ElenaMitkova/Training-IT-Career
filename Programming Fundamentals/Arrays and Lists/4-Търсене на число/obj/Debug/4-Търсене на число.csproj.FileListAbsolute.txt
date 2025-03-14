@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\bin\Debug\4-Търсене на число.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\bin\Debug\4-Търсене на число.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\bin\Debug\4-Търсене на число.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\obj\Debug\4-Търсене на число.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\obj\Debug\4-Търсене на число.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\obj\Debug\4-Търсене на число.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\4-Търсене на число\obj\Debug\4-Търсене на число.pdb

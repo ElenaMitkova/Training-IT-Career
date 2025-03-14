@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\bin\Debug\6-Списъчен манипулатор.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\bin\Debug\6-Списъчен манипулатор.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\bin\Debug\6-Списъчен манипулатор.pdb
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\obj\Debug\6-Списъчен манипулатор.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\obj\Debug\6-Списъчен манипулатор.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\obj\Debug\6-Списъчен манипулатор.exe
+C:\Users\Acer\source\repos\It Kariera ( Допълнителни задачи за списъци )\6-Списъчен манипулатор\obj\Debug\6-Списъчен манипулатор.pdb
