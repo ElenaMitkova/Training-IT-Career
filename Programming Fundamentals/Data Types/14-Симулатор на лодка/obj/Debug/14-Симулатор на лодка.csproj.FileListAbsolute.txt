@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\bin\Debug\14-Симулатор на лодка.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\bin\Debug\14-Симулатор на лодка.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\bin\Debug\14-Симулатор на лодка.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\obj\Debug\14-Симулатор на лодка.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\obj\Debug\14-Симулатор на лодка.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\obj\Debug\14-Симулатор на лодка.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\14-Симулатор на лодка\obj\Debug\14-Симулатор на лодка.pdb

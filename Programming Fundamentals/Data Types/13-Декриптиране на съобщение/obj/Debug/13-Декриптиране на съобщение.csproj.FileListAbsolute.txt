@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\bin\Debug\13-Декриптиране на съобщение.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\bin\Debug\13-Декриптиране на съобщение.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\bin\Debug\13-Декриптиране на съобщение.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\obj\Debug\13-Декриптиране на съобщение.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\obj\Debug\13-Декриптиране на съобщение.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\obj\Debug\13-Декриптиране на съобщение.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\13-Декриптиране на съобщение\obj\Debug\13-Декриптиране на съобщение.pdb

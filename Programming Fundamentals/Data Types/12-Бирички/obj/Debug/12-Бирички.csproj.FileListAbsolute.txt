@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\bin\Debug\12-Бирички.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\bin\Debug\12-Бирички.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\bin\Debug\12-Бирички.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\obj\Debug\12-Бирички.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\obj\Debug\12-Бирички.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\obj\Debug\12-Бирички.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\12-Бирички\obj\Debug\12-Бирички.pdb

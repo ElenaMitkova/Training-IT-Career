@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\bin\Debug\11-Слепване на низове.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\bin\Debug\11-Слепване на низове.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\bin\Debug\11-Слепване на низове.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\obj\Debug\11-Слепване на низове.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\obj\Debug\11-Слепване на низове.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\obj\Debug\11-Слепване на низове.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\11-Слепване на низове\obj\Debug\11-Слепване на низове.pdb

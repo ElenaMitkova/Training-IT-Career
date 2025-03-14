@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\bin\Debug\15-Векове към наносекунди.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\bin\Debug\15-Векове към наносекунди.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\bin\Debug\15-Векове към наносекунди.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\obj\Debug\15-Векове към наносекунди.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\obj\Debug\15-Векове към наносекунди.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\obj\Debug\15-Векове към наносекунди.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\15-Векове към наносекунди\obj\Debug\15-Векове към наносекунди.pdb
