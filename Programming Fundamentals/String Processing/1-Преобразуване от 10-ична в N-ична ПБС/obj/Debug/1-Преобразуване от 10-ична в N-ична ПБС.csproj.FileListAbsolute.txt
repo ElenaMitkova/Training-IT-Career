@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\bin\Debug\1-Преобразуване от 10-ична в N-ична ПБС.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\bin\Debug\1-Преобразуване от 10-ична в N-ична ПБС.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\bin\Debug\1-Преобразуване от 10-ична в N-ична ПБС.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\obj\Debug\1-Преобразуване от 10-ична в N-ична ПБС.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\obj\Debug\1-Преобразуване от 10-ична в N-ична ПБС.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\obj\Debug\1-Преобразуване от 10-ична в N-ична ПБС.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\1-Преобразуване от 10-ична в N-ична ПБС\obj\Debug\1-Преобразуване от 10-ична в N-ична ПБС.pdb

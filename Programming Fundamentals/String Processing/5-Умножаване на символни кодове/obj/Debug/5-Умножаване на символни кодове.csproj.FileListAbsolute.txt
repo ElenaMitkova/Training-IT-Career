@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\bin\Debug\5-Умножаване на символни кодове.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\bin\Debug\5-Умножаване на символни кодове.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\bin\Debug\5-Умножаване на символни кодове.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\obj\Debug\5-Умножаване на символни кодове.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\obj\Debug\5-Умножаване на символни кодове.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\obj\Debug\5-Умножаване на символни кодове.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\5-Умножаване на символни кодове\obj\Debug\5-Умножаване на символни кодове.pdb

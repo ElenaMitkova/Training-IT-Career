@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\bin\Debug\4-Unicode Символи.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\bin\Debug\4-Unicode Символи.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\bin\Debug\4-Unicode Символи.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\obj\Debug\4-Unicode Символи.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\obj\Debug\4-Unicode Символи.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\obj\Debug\4-Unicode Символи.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\4-Unicode Символи\obj\Debug\4-Unicode Символи.pdb

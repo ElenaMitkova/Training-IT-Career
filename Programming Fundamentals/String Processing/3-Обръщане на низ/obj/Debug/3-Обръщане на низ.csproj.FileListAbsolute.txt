@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\bin\Debug\3-Обръщане на низ.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\bin\Debug\3-Обръщане на низ.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\bin\Debug\3-Обръщане на низ.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\obj\Debug\3-Обръщане на низ.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\obj\Debug\3-Обръщане на низ.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\obj\Debug\3-Обръщане на низ.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\3-Обръщане на низ\obj\Debug\3-Обръщане на низ.pdb

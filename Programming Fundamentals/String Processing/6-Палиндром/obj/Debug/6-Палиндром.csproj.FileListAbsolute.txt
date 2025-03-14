@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\bin\Debug\6-Палиндром.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\bin\Debug\6-Палиндром.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\bin\Debug\6-Палиндром.pdb
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\obj\Debug\6-Палиндром.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\obj\Debug\6-Палиндром.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\obj\Debug\6-Палиндром.exe
+C:\Users\Acer\source\repos\It Kariera ( Работа със симвони низове и текст )\6-Палиндром\obj\Debug\6-Палиндром.pdb
