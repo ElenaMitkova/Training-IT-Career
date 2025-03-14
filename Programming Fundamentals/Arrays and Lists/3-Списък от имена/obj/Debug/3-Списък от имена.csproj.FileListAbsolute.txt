@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\bin\Debug\3-Списък от имена.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\bin\Debug\3-Списък от имена.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\bin\Debug\3-Списък от имена.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\obj\Debug\3-Списък от имена.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\obj\Debug\3-Списък от имена.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\obj\Debug\3-Списък от имена.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\3-Списък от имена\obj\Debug\3-Списък от имена.pdb

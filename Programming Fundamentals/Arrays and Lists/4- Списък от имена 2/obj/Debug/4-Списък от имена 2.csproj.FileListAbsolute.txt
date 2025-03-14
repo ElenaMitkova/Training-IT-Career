@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\bin\Debug\4- Списък от имена 2.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\bin\Debug\4- Списък от имена 2.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\bin\Debug\4- Списък от имена 2.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\obj\Debug\4-Списък от имена 2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\obj\Debug\4-Списък от имена 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\obj\Debug\4- Списък от имена 2.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\4- Списък от имена 2\obj\Debug\4- Списък от имена 2.pdb

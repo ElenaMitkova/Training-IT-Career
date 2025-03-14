@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\bin\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\bin\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\bin\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\obj\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\obj\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\obj\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – вход и изход )\2-Въвеждане на списък от конзолата чрез 1 ред\obj\Debug\2-Въвеждане на списък от конзолата чрез 1 ред.pdb
