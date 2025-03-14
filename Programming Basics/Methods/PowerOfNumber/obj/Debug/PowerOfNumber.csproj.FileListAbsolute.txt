@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\PowerOfNumber\obj\Debug\PowerOfNumber.pdb

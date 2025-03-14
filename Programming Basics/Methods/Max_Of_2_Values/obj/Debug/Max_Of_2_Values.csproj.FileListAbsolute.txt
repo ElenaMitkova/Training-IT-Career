@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\bin\Debug\Max_Of_2_Values.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\bin\Debug\Max_Of_2_Values.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\bin\Debug\Max_Of_2_Values.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Методи )\Max_Of_2_Values\obj\Debug\Max_Of_2_Values.pdb
