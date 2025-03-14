@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\bin\Debug\5- Прогноза за времето.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\bin\Debug\5- Прогноза за времето.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\bin\Debug\5- Прогноза за времето.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\obj\Debug\5- Прогноза за времето.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\obj\Debug\5- Прогноза за времето.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\obj\Debug\5- Прогноза за времето.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\5- Прогноза за времето\obj\Debug\5- Прогноза за времето.pdb

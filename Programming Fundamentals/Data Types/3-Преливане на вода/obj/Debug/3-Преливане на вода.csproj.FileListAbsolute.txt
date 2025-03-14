@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\bin\Debug\3-Преливане на вода.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\bin\Debug\3-Преливане на вода.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\bin\Debug\3-Преливане на вода.pdb
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\obj\Debug\3-Преливане на вода.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\obj\Debug\3-Преливане на вода.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\obj\Debug\3-Преливане на вода.exe
+C:\Users\Acer\source\repos\It Kariera ( Типове данни допълнителни задачи )\3-Преливане на вода\obj\Debug\3-Преливане на вода.pdb
