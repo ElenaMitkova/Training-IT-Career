@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\bin\Debug\2-Знак на цяло число.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\bin\Debug\2-Знак на цяло число.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\bin\Debug\2-Знак на цяло число.pdb
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\obj\Debug\2-Знак на цяло число.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\obj\Debug\2-Знак на цяло число.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\obj\Debug\2-Знак на цяло число.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\2-Знак на цяло число\obj\Debug\2-Знак на цяло число.pdb

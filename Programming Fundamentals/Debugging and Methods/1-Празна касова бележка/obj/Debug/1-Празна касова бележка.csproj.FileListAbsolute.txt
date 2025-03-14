@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\bin\Debug\1-Празна касова бележка.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\bin\Debug\1-Празна касова бележка.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\bin\Debug\1-Празна касова бележка.pdb
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\obj\Debug\1-Празна касова бележка.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\obj\Debug\1-Празна касова бележка.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\obj\Debug\1-Празна касова бележка.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\1-Празна касова бележка\obj\Debug\1-Празна касова бележка.pdb

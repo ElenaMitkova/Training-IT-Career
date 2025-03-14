@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\bin\Debug\3-Отпечатване на триъгълник.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\bin\Debug\3-Отпечатване на триъгълник.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\bin\Debug\3-Отпечатване на триъгълник.pdb
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\obj\Debug\3-Отпечатване на триъгълник.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\obj\Debug\3-Отпечатване на триъгълник.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\obj\Debug\3-Отпечатване на триъгълник.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\3-Отпечатване на триъгълник\obj\Debug\3-Отпечатване на триъгълник.pdb

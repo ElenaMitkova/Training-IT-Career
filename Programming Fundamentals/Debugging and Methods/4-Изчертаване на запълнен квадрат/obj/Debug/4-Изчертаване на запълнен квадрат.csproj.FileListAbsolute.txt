@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\bin\Debug\4-Изчертаване на запълнен квадрат.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\bin\Debug\4-Изчертаване на запълнен квадрат.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\bin\Debug\4-Изчертаване на запълнен квадрат.pdb
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\obj\Debug\4-Изчертаване на запълнен квадрат.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\obj\Debug\4-Изчертаване на запълнен квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\obj\Debug\4-Изчертаване на запълнен квадрат.exe
+C:\Users\Acer\source\repos\It Kariera ( Mетоди. Деклариране и извикване на методи )\4-Изчертаване на запълнен квадрат\obj\Debug\4-Изчертаване на запълнен квадрат.pdb
