@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\bin\Debug\3-Числа квадрати.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\bin\Debug\3-Числа квадрати.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\bin\Debug\3-Числа квадрати.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\obj\Debug\3-Числа квадрати.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\obj\Debug\3-Числа квадрати.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\obj\Debug\3-Числа квадрати.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\3-Числа квадрати\obj\Debug\3-Числа квадрати.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\bin\Debug\2-Сортиране на числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\bin\Debug\2-Сортиране на числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\bin\Debug\2-Сортиране на числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\obj\Debug\2-Сортиране на числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\obj\Debug\2-Сортиране на числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\obj\Debug\2-Сортиране на числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\2-Сортиране на числа\obj\Debug\2-Сортиране на числа.pdb

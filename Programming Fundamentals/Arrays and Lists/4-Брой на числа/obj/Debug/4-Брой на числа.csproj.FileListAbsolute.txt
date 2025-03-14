@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\bin\Debug\4-Брой на числа.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\bin\Debug\4-Брой на числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\bin\Debug\4-Брой на числа.pdb
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\obj\Debug\4-Брой на числа.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\obj\Debug\4-Брой на числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\obj\Debug\4-Брой на числа.exe
+C:\Users\Acer\source\repos\It Kariera ( Списъци – сортиране )\4-Брой на числа\obj\Debug\4-Брой на числа.pdb
