@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\bin\Debug\net8.0\Вход_и_изход_на_матрица.exe
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\bin\Debug\net8.0\Вход_и_изход_на_матрица.deps.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\bin\Debug\net8.0\Вход_и_изход_на_матрица.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\bin\Debug\net8.0\Вход_и_изход_на_матрица.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\bin\Debug\net8.0\Вход_и_изход_на_матрица.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\refint\Вход_и_изход_на_матрица.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\Вход_и_изход_на_матрица.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Вход_и_изход_на_матрица\obj\Debug\net8.0\ref\Вход_и_изход_на_матрица.dll

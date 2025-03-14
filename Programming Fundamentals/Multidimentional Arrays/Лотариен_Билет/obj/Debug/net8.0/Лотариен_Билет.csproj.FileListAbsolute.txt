@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\bin\Debug\net8.0\Лотариен_Билет.exe
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\bin\Debug\net8.0\Лотариен_Билет.deps.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\bin\Debug\net8.0\Лотариен_Билет.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\bin\Debug\net8.0\Лотариен_Билет.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\bin\Debug\net8.0\Лотариен_Билет.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\refint\Лотариен_Билет.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\Лотариен_Билет.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Лотариен_Билет\obj\Debug\net8.0\ref\Лотариен_Билет.dll

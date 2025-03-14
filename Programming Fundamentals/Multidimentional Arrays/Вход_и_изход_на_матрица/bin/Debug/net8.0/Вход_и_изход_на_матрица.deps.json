@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Вход_и_изход_на_матрица/1.0.0": {
+        "runtime": {
+          "Вход_и_изход_на_матрица.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вход_и_изход_на_матрица/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

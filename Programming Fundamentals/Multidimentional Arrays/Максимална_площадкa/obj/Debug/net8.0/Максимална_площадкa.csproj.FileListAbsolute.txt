@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\bin\Debug\net8.0\Максимална_площадкa.exe
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\bin\Debug\net8.0\Максимална_площадкa.deps.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\bin\Debug\net8.0\Максимална_площадкa.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\bin\Debug\net8.0\Максимална_площадкa.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\bin\Debug\net8.0\Максимална_площадкa.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\refint\Максимална_площадкa.dll
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.pdb
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\Максимална_площадкa.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(Многомерни масиви)\Максимална_площадкa\obj\Debug\net8.0\ref\Максимална_площадкa.dll
