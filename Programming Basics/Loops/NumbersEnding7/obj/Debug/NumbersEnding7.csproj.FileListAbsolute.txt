@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\bin\Debug\NumbersEnding7.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\bin\Debug\NumbersEnding7.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\bin\Debug\NumbersEnding7.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\obj\Debug\NumbersEnding7.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\obj\Debug\NumbersEnding7.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\obj\Debug\NumbersEnding7.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\NumbersEnding7\obj\Debug\NumbersEnding7.pdb

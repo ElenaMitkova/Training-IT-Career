@@ -1,0 +1,7 @@
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\bin\Debug\Numbers1To100.exe.config
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\bin\Debug\Numbers1To100.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\bin\Debug\Numbers1To100.pdb
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\obj\Debug\Numbers1To100.csproj.AssemblyReference.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\obj\Debug\Numbers1To100.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\obj\Debug\Numbers1To100.exe
+C:\Users\Kostadin\source\repos\Visual Studio 2022\It Kariera ( Повторения )\Numbers1To100\obj\Debug\Numbers1To100.pdb
