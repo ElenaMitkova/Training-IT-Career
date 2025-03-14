@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\bin\Debug\2-Низове и знаци.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\bin\Debug\2-Низове и знаци.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\bin\Debug\2-Низове и знаци.pdb
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\obj\Debug\2-Низове и знаци.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\obj\Debug\2-Низове и знаци.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\obj\Debug\2-Низове и знаци.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\2-Низове и знаци\obj\Debug\2-Низове и знаци.pdb

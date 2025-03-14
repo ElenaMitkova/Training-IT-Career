@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\bin\Debug\5-Данни на служител.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\bin\Debug\5-Данни на служител.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\bin\Debug\5-Данни на служител.pdb
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\obj\Debug\5-Данни на служител.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\obj\Debug\5-Данни на служител.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\obj\Debug\5-Данни на служител.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\5-Данни на служител\obj\Debug\5-Данни на служител.pdb

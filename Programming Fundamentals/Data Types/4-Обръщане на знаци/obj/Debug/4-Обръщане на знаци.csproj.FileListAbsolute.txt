@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\bin\Debug\4-Обръщане на знаци.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\bin\Debug\4-Обръщане на знаци.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\bin\Debug\4-Обръщане на знаци.pdb
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\obj\Debug\4-Обръщане на знаци.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\obj\Debug\4-Обръщане на знаци.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\obj\Debug\4-Обръщане на знаци.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\4-Обръщане на знаци\obj\Debug\4-Обръщане на знаци.pdb

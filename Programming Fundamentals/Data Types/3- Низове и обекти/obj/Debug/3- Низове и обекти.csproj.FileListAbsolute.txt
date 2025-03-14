@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\bin\Debug\3- Низове и обекти.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\bin\Debug\3- Низове и обекти.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\bin\Debug\3- Низове и обекти.pdb
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\obj\Debug\3- Низове и обекти.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\obj\Debug\3- Низове и обекти.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\obj\Debug\3- Низове и обекти.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\3- Низове и обекти\obj\Debug\3- Низове и обекти.pdb

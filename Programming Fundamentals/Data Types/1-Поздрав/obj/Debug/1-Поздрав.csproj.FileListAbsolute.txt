@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\bin\Debug\1-Поздрав.exe.config
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\bin\Debug\1-Поздрав.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\bin\Debug\1-Поздрав.pdb
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\obj\Debug\1-Поздрав.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\obj\Debug\1-Поздрав.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\obj\Debug\1-Поздрав.exe
+C:\Users\Acer\source\repos\It Kariera ( Текстов и обектен тип )\1-Поздрав\obj\Debug\1-Поздрав.pdb
