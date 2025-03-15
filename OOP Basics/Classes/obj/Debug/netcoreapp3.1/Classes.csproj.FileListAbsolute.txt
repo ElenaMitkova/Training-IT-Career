@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\Acer\source\repos\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Acer\source\repos\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\Acer\source\repos\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Acer\source\repos\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Acer\source\repos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
