@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\bin\Debug\net8.0\MusicStreamingService.exe
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\bin\Debug\net8.0\MusicStreamingService.deps.json
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\bin\Debug\net8.0\MusicStreamingService.runtimeconfig.json
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\bin\Debug\net8.0\MusicStreamingService.dll
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\bin\Debug\net8.0\MusicStreamingService.pdb
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.dll
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\refint\MusicStreamingService.dll
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.pdb
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\MusicStreamingService.genruntimeconfig.cache
+C:\Users\Acer\source\repos\MusicStreamingService\MusicStreamingService\obj\Debug\net8.0\ref\MusicStreamingService.dll

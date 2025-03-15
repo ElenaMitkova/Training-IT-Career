@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\bin\Debug\net8.0\LessonFinder.exe
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\bin\Debug\net8.0\LessonFinder.deps.json
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\bin\Debug\net8.0\LessonFinder.runtimeconfig.json
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\bin\Debug\net8.0\LessonFinder.dll
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\bin\Debug\net8.0\LessonFinder.pdb
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.dll
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\refint\LessonFinder.dll
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.pdb
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\LessonFinder.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LessonFinder\LessonFinder\obj\Debug\net8.0\ref\LessonFinder.dll
