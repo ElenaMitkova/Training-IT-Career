@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\bin\Debug\netcoreapp3.1\Списък на служители.exe
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\bin\Debug\netcoreapp3.1\Списък на служители.deps.json
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\bin\Debug\netcoreapp3.1\Списък на служители.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\bin\Debug\netcoreapp3.1\Списък на служители.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\bin\Debug\netcoreapp3.1\Списък на служители.dll
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\bin\Debug\netcoreapp3.1\Списък на служители.pdb
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.dll
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.pdb
+C:\Users\Acer\source\repos\It Kariera ( Полета и свойства )\Списък на служители\obj\Debug\netcoreapp3.1\Списък на служители.genruntimeconfig.cache
