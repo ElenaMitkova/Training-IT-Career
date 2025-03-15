@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\Дефиниране на клас Person.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\Дефиниране на клас Person.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\Дефиниране на клас Person.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\Дефиниране на клас Person.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\Дефиниране на клас Person.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\Дефиниране на клас Person.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\Дефиниране на клас Person.genruntimeconfig.cache

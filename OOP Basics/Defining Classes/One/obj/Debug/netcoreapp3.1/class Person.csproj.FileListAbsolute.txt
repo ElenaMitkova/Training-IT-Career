@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\class Person.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\class Person.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\class Person.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\class Person.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\class Person.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\bin\Debug\netcoreapp3.1\class Person.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\One\obj\Debug\netcoreapp3.1\class Person.genruntimeconfig.cache
