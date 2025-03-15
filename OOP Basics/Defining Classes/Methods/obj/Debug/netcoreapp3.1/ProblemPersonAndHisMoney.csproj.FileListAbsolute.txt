@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\ProblemPersonAndHisMoney.genruntimeconfig.cache

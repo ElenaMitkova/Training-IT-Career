@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
