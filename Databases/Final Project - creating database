@@ -1,0 +1,455 @@
+# създаване на базата данни airport
+create schema airport;
+# използване на базата данни airport
+use airport;
+# създаване на таблица stewards
+CREATE table stewards
+(
+id int unique not null auto_increment,
+first_name varchar(50) not null,
+surname varchar(50) not null,
+primary key(id)
+);
+# създаване на таблица pilots
+CREATE table pilots
+(
+id int unique not null auto_increment,
+first_name varchar(50) not null,
+surname varchar(50) not null,
+primary key(id)
+);
+# създаване на таблица managers
+CREATE table managers
+(
+id int unique not null auto_increment,
+first_name varchar(50) not null,
+surname varchar(50) not null,
+primary key(id)
+);
+# създаване на таблица counties
+CREATE table countries
+(
+country_code varchar(3) unique not null,
+country_name varchar(100) unique not null,
+primary key(country_code)
+);
+# създаване на таблица passengers
+CREATE table passengers
+(
+id int unique not null auto_increment,
+first_name varchar(50) not null,
+surname varchar(50) not null,
+email varchar(50) not null,
+phone_number varchar(20),
+primary key(id)
+);
+# създаване на таблица flights
+CREATE table flights
+(
+id int unique not null,
+departure varchar(3) not null,
+arrival varchar(3) not null,
+primary key(id),
+foreign key(departure) references countries(country_code),
+foreign key(arrival) references countries(country_code)
+);
+# създаване на таблица flight_pilot
+CREATE table flight_pilot
+(
+flight_id int not null,
+pilot_id int not null,
+primary key(flight_id,pilot_id),
+foreign key(flight_id) references flights(id),
+foreign key(pilot_id) references pilots(id)
+);
+# създаване на таблица flight_steward
+CREATE table flight_steward
+(
+flight_id int not null,
+steward_id int not null,
+primary key(flight_id,steward_id),
+foreign key(flight_id) references flights(id),
+foreign key(steward_id) references stewards(id)
+);
+# създаване на таблица flight_managers
+CREATE table flight_managers
+(
+flight_id int not null,
+manager_id int not null,
+primary key(flight_id,manager_id),
+foreign key(flight_id) references flights(id),
+foreign key(manager_id) references managers(id)
+);
+# създаване на таблица tickets
+CREATE table tickets
+(
+ticket_id int unique not null,
+flight_id int not null,
+passenger_id int not null,
+price decimal(10,2) not null,
+primary key(ticket_id),
+foreign key(flight_id) references flights(id),
+foreign key(passenger_id) references passengers(id)
+);
+# вмъкване на данни в таблица stewards
+INSERT INTO stewards (first_name,surname) VALUES
+('James', 'Carter'),
+('Oliver', 'Smith'),
+('Emily', 'Clark'),
+('Olivia', 'Lewis'),
+('Sophia', 'Walker'),
+('William', 'Johnson'),
+('Lucas', 'Brown'),
+('Logan', 'Turner'),
+('Riley', 'Campbell'),
+('Jordan', 'Hill'),
+('Elijah', 'Davis'),
+('Alexander', 'Wilson'),
+('Isabella', 'Hall'),
+('Charlotte', 'Young'),
+('Amelia', 'Allen');
+# вмъкване на данни в таблица pilots
+INSERT INTO pilots (first_name,surname) VALUES
+('Benjamin', 'Miller'),
+('Mason', 'Moore'),
+('Ethan', 'Taylor'),
+('Henry', 'Anderson'),
+('Mia', 'King'),
+('Avery', 'Brooks'),
+('Taylor', 'Parker'),
+('Morgan', 'Cooper'),
+('Sydney', 'Hughes'),
+('Quinn', 'Ross'),
+('Alex', 'Howard'),
+('Casey', 'Bell'),
+('Harper', 'Wright'),
+('Amelia', 'Green'),
+('Lucas', 'Martin');
+# вмъкване на данни в таблица managers
+INSERT INTO managers (first_name,surname) VALUES
+('Michael', 'Harris'),
+('Evelyn', 'Ross'),
+('Scarlett', 'Adams'),
+('Lily', 'Mitchell'),
+('Grace', 'Perez'),
+('Chloe', 'Phillips'),
+('Zoe', 'Carter'),
+('Stella', 'Collins'),
+('Dominic', 'Reed'),
+('Adrian', 'Morris'),
+('Daniel', 'Richardson'),
+('Nathan', 'Bennett'),
+('Daniel', 'Rivera'),
+('Victoria', 'Howard'),
+('Madison', 'Hayes');
+# вмъкване на данни в таблица countries
+INSERT INTO countries (country_code, country_name)
+values
+('ARG','Argentina'),
+('AUT','Austria'),
+('BRA','Brazil'),
+('BGN','Bulgaria'),
+('CAN','Canada'),
+('CYP','Cyprus'),
+('DNK','Denmark'),
+('EGY','Egypt'),
+('FRA','France'),
+('DEU', 'Germany'),
+('GRC','Greece'),
+('ITA','Italy'),
+('PRT', 'Portugal'),
+('ROU', 'Romania'),
+('RUS', 'Russia'),
+('SRB', 'Serbia'),
+('ESP', 'Spain'),
+('TUR', 'Turkie'),
+('GBR', 'Great Britain'),
+('USA', 'United States of America');
+# вмъкване на данни в таблица passengers
+insert into passengers (first_name, surname, email, phone_number)
+values
+('Dorothy', 'Jefferson', 'dorothyjefferson@gmail.com', '04308191173'),
+('Katrina',  'Aguirre', 'aguirrekatr@gmai.com', '0866535415'),
+('Khadijah', 'Skinner', 'skinner_44@gmail.com', '0846641651'),
+('Jaydon', 'Estes', 'jaydon_99@gmail.com', '0463232364'),
+('Abubakar', 'Jacobs', 'jacobs_abubakar@gmail.com', '0846541635'),
+('Montgomery', 'Santos', 'montgomerysantos@gmail.com', '0741964562'),
+('Zack', 'Buckley', 'buckley_zack@gmail.com', '0852456123'),
+('Bartosz', 'Kim', 'bartosz_14@gmail.com', '0321987852'),
+('Alexis', 'Graves', 'graves_08@gmail.com', '0321987602'),
+('Alina', 'Potts', 'alina_potts_7@gmail.com', '0741852349'),
+('Priya', 'Petersen', 'petersen_priya@gmail.com', '0985265471'),
+('Zak', 'Reynolds', 'reynolds_44@gmail.com', '0132654847'),
+('Kye', 'Barker', 'kye@gmaol.com', '0685296371'),
+('Aliyah', 'Warner', 'warner_aliyah_77@gmail.com', '0145678923'),
+('Sadie', 'Jennings', 'sadie_jennings_9@gmail.com', '0753429186'),
+('Marley', 'Hutchinson', 'hutchinson_123@gmail.com', '0147326589'),
+('Noah', 'Rose', 'rose_noah@gmail.com', '0816795344'),
+('Alys', 'Oconnell', 'alysoconnel@gmail.com', '0325814769'),
+('Anaya', 'Robles', 'robles@gmail.com', '0123687594'),
+('Sulaiman', 'Hampton', 'sulaiman@gmail.com', '987415232'),
+('Sulaiman', 'Hampton', 'hampton_sulaiman@gmail.com', '0465978312'),
+('Elodie', 'Friedman', 'elodie_friedman_0@gmail.com', '0835719562'),
+('Bronwyn', 'Malone', 'bronwyn_159@gmail.com', '0674125893'),
+('Amanda', 'Kent', 'kentamanda_45@gmail.com', '4532166984'),
+('Lachlan', 'Mcknight', 'mcknight@gmail.com', '0741369285'),
+('Vivian', 'Howell', 'vivian_789@abv.bg', '0875369421'),
+('Marjorie', 'Knapp', 'knapp_marjorie@gmail.com', '0321496758'),
+('Nia', 'Glass', 'glass_nia_111@gmail.com', '0951735248'),
+('Lul', 'Waller', 'waller_789@gmail.com', '0315768492'),
+('Esme', 'Rogers', 'rogers_esme@gmail.com', '0431576281');
+# вмъкване на данни в таблица flights
+INSERT INTO flights (id, departure, arrival)
+VALUES
+(450, 'GRC', 'FRA'),
+(319, 'PRT', 'ROU'),
+(756, 'GBR', 'USA'),
+(925, 'ITA', 'DEU'),
+(888, 'EGY', 'BGN'),
+(107, 'BRA', 'BGN'),
+(849, 'BGN', 'ARG'),
+(611, 'AUT', 'CAN'),
+(225, 'FRA', 'DEU'),
+(370, 'DEU', 'CAN'),
+(328, 'RUS', 'USA'),
+(269, 'SRB', 'ESP'),
+(829, 'ESP', 'TUR'),
+(739, 'USA', 'TUR'),
+(895, 'BGN', 'ESP'),
+(123, 'ROU', 'ARG'),
+(160, 'GBR', 'PRT'),
+(463, 'BGN', 'GRC'),
+(871, 'ARG', 'AUT'),
+(182, 'ESP', 'BGN'),
+(587, 'USA', 'ITA'),
+(422, 'AUT', 'ESP'),
+(359, 'AUT', 'BGN'),
+(308, 'GRC', 'ESP'),
+(686, 'CYP', 'EGY'),
+(883, 'FRA', 'CYP'),
+(424, 'USA', 'FRA'),
+(342, 'GBR', 'BGN'),
+(395, 'FRA', 'ESP'),
+(223, 'ARG', 'AUT');
+# вмъкване на данни в таблица flight_managers
+insert into flight_managers(flight_id, manager_id)
+values
+(450, 11),
+(319, 6),
+(756, 5),
+(925, 9),
+(888, 15),
+(107, 10),
+(849, 2),
+(611, 8),
+(225, 1),
+(370, 4),
+(328, 3),
+(269, 7),
+(829, 14),
+(739, 12),
+(895, 13),
+(123, 15),
+(160, 8),
+(463, 7),
+(871, 3),
+(182, 9),
+(587, 1),
+(422, 11),
+(359, 14),
+(308, 6),
+(686, 2),
+(883, 10),
+(424, 13),
+(342, 4),
+(395, 12),
+(223, 5);
+# вмъкване на данни в таблица tickets
+INSERT INTO tickets (ticket_id, flight_id, passenger_id, price)
+VALUES
+(1769, 450, 30, 150.5),
+(1839, 925, 15, 40.99),
+(1607, 319, 2, 69),
+(1069, 849, 3, 250.89),
+(1600, 225, 14, 66.66),
+(1151, 829, 5, 123),
+(1743, 587, 28, 56.69),
+(1177, 182, 1, 89.6),
+(1604, 370, 12, 140.2),
+(1176, 463, 25, 102),
+(1804, 686, 13, 78.23),
+(1189, 269, 22, 100),
+(1885, 342, 18, 115.5),
+(1915, 223, 4, 65),
+(1638, 611, 10, 66.6),
+(1016, 107, 7, 144),
+(1019, 895, 11, 99.99),
+(1705, 739, 6, 100),
+(1313, 160, 16, 68),
+(1684, 359, 8, 88),
+(1039, 756, 30, 150.2),
+(1605, 888, 15, 55),
+(1854, 422, 9, 145.6),
+(1566, 883, 17, 88),
+(1393, 424, 21, 77),
+(1217, 395, 19, 45),
+(1823, 871, 24, 100),
+(1906, 308, 20, 45),
+(1350, 328, 23, 100),
+(1986, 123, 26, 115),
+(1793, 450, 29, 66),
+(1150, 925, 27, 99),
+(1445, 319, 30, 56),
+(1756, 849, 15, 123.33),
+(1320, 225, 18, 54.8),
+(1456, 829, 1, 68.9),
+(1131, 587, 3, 77.89),
+(1666, 182, 8, 102.2),
+(1871, 370, 9, 64),
+(1606, 463, 10, 79.6),
+(1622, 686, 6, 78),
+(1452, 269, 2, 69),
+(1090, 342, 7, 163),
+(1309, 223, 23, 145),
+(1159, 450, 4, 78),
+(1792, 611, 11, 444),
+(1173, 107, 5, 66.66),
+(1953, 895, 13, 64),
+(1299, 739, 20, 45),
+(1665, 925, 12, 88),
+(1277, 160, 14, 97),
+(1624, 359, 17, 68),
+(1917, 319, 16, 78),
+(1183, 849, 22, 120),
+(1568, 756, 7, 45),
+(1409, 888, 28, 63),
+(1720, 422, 15, 92),
+(1163, 883, 19, 64),
+(2049, 756, 18, 59),
+(2050, 422, 13, 94);
+# вмъкване на данни в таблица flight_pilot
+insert into flight_pilot(flight_id, pilot_id)
+values
+(450, 1),
+(319, 3),
+(756, 5),
+(925, 4),
+(888,4),
+(107,7),
+(849,6),
+(611,2),
+(225,9),
+(370,10),
+(328,15),
+(269,15),
+(829,15),
+(739,13),
+(895,12),
+(123,10),
+(160,11),
+(463,1),
+(871,8),
+(182,14),
+(587,3),
+(422,5),
+(359,9),
+(308,4),
+(686,11),
+(883,10),
+(424,14),
+(342,11),
+(395,3),
+(223,4),
+(450, 2),
+(319, 5),
+(756, 4),
+(925, 7),
+(888,6),
+(107,2),
+(849,2),
+(611,9),
+(225,10),
+(370,15),
+(328,14),
+(269,13),
+(829,12),
+(739,11),
+(895,10),
+(123,9),
+(160,1),
+(463,8),
+(871,14),
+(182,3),
+(587,5),
+(422,9),
+(359,4),
+(308,11),
+(686,10),
+(883,14),
+(424,11),
+(342,3),
+(395,7),
+(223,5);
+# вмъкване на данни в таблица flight_steward
+insert into flight_steward(flight_id, steward_id)
+values
+(450, 5),
+(319, 4),
+(756, 4),
+(925, 7),
+(888,6),
+(107,2),
+(849,9),
+(611,10),
+(225,15),
+(370,14),
+(328,14),
+(269,13),
+(829,12),
+(739,13),
+(895,7),
+(123,12),
+(160,8),
+(463,14),
+(871,8),
+(182,3),
+(587,9),
+(422,4),
+(359,11),
+(308,10),
+(686,14),
+(883,11),
+(424,3),
+(342,4),
+(395,2),
+(223,5),
+(450, 4),
+(319, 7),
+(756, 6),
+(925, 2),
+(888,2),
+(107,9),
+(849,10),
+(611,15),
+(225,14),
+(370,12),
+(328,12),
+(269,11),
+(829,10),
+(739,9),
+(895,1),
+(123,9),
+(160,14),
+(463,3),
+(871,5),
+(182,9),
+(587,4),
+(422,11),
+(359,10),
+(308,14),
+(686,11),
+(883,3),
+(424,7),
+(342,5),
+(395,1),
+(223,3);
