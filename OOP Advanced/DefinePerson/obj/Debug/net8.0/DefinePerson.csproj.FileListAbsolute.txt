@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\bin\Debug\net8.0\DefinePerson.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\bin\Debug\net8.0\DefinePerson.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\bin\Debug\net8.0\DefinePerson.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\bin\Debug\net8.0\DefinePerson.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\bin\Debug\net8.0\DefinePerson.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\refint\DefinePerson.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\DefinePerson.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\DefinePerson\obj\Debug\net8.0\ref\DefinePerson.dll

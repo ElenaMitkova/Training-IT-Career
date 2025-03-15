@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\bin\Debug\net8.0\Family.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\bin\Debug\net8.0\Family.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\bin\Debug\net8.0\Family.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\bin\Debug\net8.0\Family.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\bin\Debug\net8.0\Family.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\refint\Family.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\Family\obj\Debug\net8.0\ref\Family.dll
