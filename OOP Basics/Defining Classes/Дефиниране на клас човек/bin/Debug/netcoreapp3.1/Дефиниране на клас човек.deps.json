@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Дефиниране на клас човек/1.0.0": {
+        "runtime": {
+          "Дефиниране на клас човек.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Дефиниране на клас човек/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

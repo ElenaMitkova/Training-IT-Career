@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\bin\Debug\netcoreapp3.1\Дефиниране на клас човек.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\bin\Debug\netcoreapp3.1\Дефиниране на клас човек.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\bin\Debug\netcoreapp3.1\Дефиниране на клас човек.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\bin\Debug\netcoreapp3.1\Дефиниране на клас човек.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\bin\Debug\netcoreapp3.1\Дефиниране на клас човек.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\bin\Debug\netcoreapp3.1\Дефиниране на клас човек.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Дефиниране на клас човек\obj\Debug\netcoreapp3.1\Дефиниране на клас човек.genruntimeconfig.cache

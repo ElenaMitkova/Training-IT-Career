@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\bin\Debug\netcoreapp3.1\Statistic.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\bin\Debug\netcoreapp3.1\Statistic.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\bin\Debug\netcoreapp3.1\Statistic.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\bin\Debug\netcoreapp3.1\Statistic.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\bin\Debug\netcoreapp3.1\Statistic.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\bin\Debug\netcoreapp3.1\Statistic.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове - упражнение)\Statistic\obj\Debug\netcoreapp3.1\Statistic.genruntimeconfig.cache
