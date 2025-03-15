@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\bin\Debug\net8.0\Сортиране_на_кратки_думи.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\bin\Debug\net8.0\Сортиране_на_кратки_думи.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\bin\Debug\net8.0\Сортиране_на_кратки_думи.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\bin\Debug\net8.0\Сортиране_на_кратки_думи.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\bin\Debug\net8.0\Сортиране_на_кратки_думи.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\refint\Сортиране_на_кратки_думи.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\Сортиране_на_кратки_думи.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_кратки_думи\obj\Debug\net8.0\ref\Сортиране_на_кратки_думи.dll

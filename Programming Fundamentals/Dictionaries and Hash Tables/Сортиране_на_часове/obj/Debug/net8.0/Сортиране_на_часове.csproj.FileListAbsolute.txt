@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\bin\Debug\net8.0\Сортиране_на_часове.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\bin\Debug\net8.0\Сортиране_на_часове.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\bin\Debug\net8.0\Сортиране_на_часове.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\bin\Debug\net8.0\Сортиране_на_часове.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\bin\Debug\net8.0\Сортиране_на_часове.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\refint\Сортиране_на_часове.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\Сортиране_на_часове.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сортиране_на_часове\obj\Debug\net8.0\ref\Сортиране_на_часове.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\bin\Debug\net8.0\Сгъни_и_сумирай.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\bin\Debug\net8.0\Сгъни_и_сумирай.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\bin\Debug\net8.0\Сгъни_и_сумирай.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\bin\Debug\net8.0\Сгъни_и_сумирай.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\bin\Debug\net8.0\Сгъни_и_сумирай.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\refint\Сгъни_и_сумирай.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\Сгъни_и_сумирай.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сгъни_и_сумирай\obj\Debug\net8.0\ref\Сгъни_и_сумирай.dll
