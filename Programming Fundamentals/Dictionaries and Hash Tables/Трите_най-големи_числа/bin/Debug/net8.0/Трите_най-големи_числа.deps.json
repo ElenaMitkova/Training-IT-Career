@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Трите_най-големи_числа/1.0.0": {
+        "runtime": {
+          "Трите_най-големи_числа.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Трите_най-големи_числа/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

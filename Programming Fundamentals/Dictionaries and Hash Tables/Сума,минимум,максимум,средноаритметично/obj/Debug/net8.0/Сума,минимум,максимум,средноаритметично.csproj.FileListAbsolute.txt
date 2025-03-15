@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\bin\Debug\net8.0\Сума,минимум,максимум,средноаритметично.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\bin\Debug\net8.0\Сума,минимум,максимум,средноаритметично.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\bin\Debug\net8.0\Сума,минимум,максимум,средноаритметично.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\bin\Debug\net8.0\Сума,минимум,максимум,средноаритметично.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\bin\Debug\net8.0\Сума,минимум,максимум,средноаритметично.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\refint\Сума,минимум,максимум,средноаритметично.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\Сума,минимум,максимум,средноаритметично.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Сума,минимум,максимум,средноаритметично\obj\Debug\net8.0\ref\Сума,минимум,максимум,средноаритметично.dll

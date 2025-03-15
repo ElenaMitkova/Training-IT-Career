@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\bin\Debug\net8.0\Трите_най-големи_числа.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\bin\Debug\net8.0\Трите_най-големи_числа.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\bin\Debug\net8.0\Трите_най-големи_числа.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\bin\Debug\net8.0\Трите_най-големи_числа.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\bin\Debug\net8.0\Трите_най-големи_числа.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\refint\Трите_най-големи_числа.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\Трите_най-големи_числа.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Трите_най-големи_числа\obj\Debug\net8.0\ref\Трите_най-големи_числа.dll
