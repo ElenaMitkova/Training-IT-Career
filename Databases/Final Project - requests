@@ -1,0 +1,49 @@
+select first_name, surname from pilots /* Заявка 1 */
+order by first_name, surname;
+
+select country_name, country_code from countries /* Заявка 2 */
+order by country_code;
+
+select first_name, surname, phone_number from passengers /* Заявка 3 */
+order by first_name;
+
+select f.id, c1.country_name as departure, c2.country_name as arrivals /* Заявка 4 */
+from flights f
+join countries c1 ON f.departure = c1.country_code
+join countries c2 ON f.arrival = c2.country_code
+order by f.id desc;
+
+select p.first_name, p.surname, t.flight_id, c1.country_name as departure, c2.country_name as arrival, t.price /* Заявка 5 */
+from tickets t
+join passengers p ON p.id = t.passenger_id
+join flights f ON f.id = t.flight_id
+join countries c1 ON f.departure = c1.country_code
+join countries c2 ON f.arrival = c2.country_code
+where t.price > 100
+order by price desc;
+
+select p.first_name as pilot_name , p.surname as pilot_surname , fp.flight_id, c1.country_name as departure, c2.country_name as arrival /* Заявка 6 */
+from pilots p
+join flight_pilot fp ON fp.pilot_id = p.id
+join flights f ON f.id = fp.flight_id
+join countries c1 ON c1.country_code = f.departure
+join countries c2 ON c2.country_code = f.arrival;
+
+select flight_id, count(*) as number_of_tickets  /* Заявка 7 */
+from tickets
+group by flight_id
+having number_of_tickets > 1
+order by number_of_tickets;
+
+select distinct f.id as flight_id from  /* Заявка 8 */
+flights f
+join flight_pilot fp ON fp.flight_id = f.id
+join flight_steward fs ON fs.flight_id = f.id;
+
+select c.country_name, ROUND(AVG(t.price),2) as average_price  /* Заявка 9 */
+from tickets t
+join flights f ON t.flight_id = f.id
+join countries c ON f.arrival = c.country_code
+group by c.country_name
+order by average_price desc
+limit 5;
