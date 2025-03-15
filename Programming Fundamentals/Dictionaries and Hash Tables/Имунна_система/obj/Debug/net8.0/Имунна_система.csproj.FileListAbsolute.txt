@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\bin\Debug\net8.0\Имунна_система.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\bin\Debug\net8.0\Имунна_система.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\bin\Debug\net8.0\Имунна_система.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\bin\Debug\net8.0\Имунна_система.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\bin\Debug\net8.0\Имунна_система.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\refint\Имунна_система.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\Имунна_система.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Имунна_система\obj\Debug\net8.0\ref\Имунна_система.dll

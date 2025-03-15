@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Поправка_на_Email-и/1.0.0": {
+        "runtime": {
+          "Поправка_на_Email-и.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Поправка_на_Email-и/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\bin\Debug\net8.0\Поправка_на_Email-и.exe
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\bin\Debug\net8.0\Поправка_на_Email-и.deps.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\bin\Debug\net8.0\Поправка_на_Email-и.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\bin\Debug\net8.0\Поправка_на_Email-и.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\bin\Debug\net8.0\Поправка_на_Email-и.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\refint\Поправка_на_Email-и.dll
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.pdb
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\Поправка_на_Email-и.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera(LINQ)\Поправка_на_Email-и\obj\Debug\net8.0\ref\Поправка_на_Email-и.dll
