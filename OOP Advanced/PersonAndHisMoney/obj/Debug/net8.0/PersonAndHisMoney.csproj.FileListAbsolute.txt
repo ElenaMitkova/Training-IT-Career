@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\bin\Debug\net8.0\PersonAndHisMoney.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\bin\Debug\net8.0\PersonAndHisMoney.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\bin\Debug\net8.0\PersonAndHisMoney.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\bin\Debug\net8.0\PersonAndHisMoney.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\bin\Debug\net8.0\PersonAndHisMoney.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\refint\PersonAndHisMoney.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\PersonAndHisMoney.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\PersonAndHisMoney\obj\Debug\net8.0\ref\PersonAndHisMoney.dll

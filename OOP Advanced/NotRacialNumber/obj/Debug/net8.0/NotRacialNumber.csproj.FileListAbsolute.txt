@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\bin\Debug\net8.0\NotRacialNumber.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\bin\Debug\net8.0\NotRacialNumber.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\bin\Debug\net8.0\NotRacialNumber.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\bin\Debug\net8.0\NotRacialNumber.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\bin\Debug\net8.0\NotRacialNumber.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\refint\NotRacialNumber.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\NotRacialNumber.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotRacialNumber\obj\Debug\net8.0\ref\NotRacialNumber.dll

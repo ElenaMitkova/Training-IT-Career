@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\bin\Debug\net8.0\RacionalDigit.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\bin\Debug\net8.0\RacionalDigit.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\bin\Debug\net8.0\RacionalDigit.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\bin\Debug\net8.0\RacionalDigit.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\bin\Debug\net8.0\RacionalDigit.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\refint\RacionalDigit.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\RacionalDigit.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\RacionalDigit\obj\Debug\net8.0\ref\RacionalDigit.dll
