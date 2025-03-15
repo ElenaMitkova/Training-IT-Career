@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\bin\Debug\net8.0\Супермаркет.exe
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\bin\Debug\net8.0\Супермаркет.deps.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\bin\Debug\net8.0\Супермаркет.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\bin\Debug\net8.0\Супермаркет.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\bin\Debug\net8.0\Супермаркет.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\refint\Супермаркет.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\Супермаркет.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Супермаркет\obj\Debug\net8.0\ref\Супермаркет.dll

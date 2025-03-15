@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Телефонен_указател/1.0.0": {
+        "runtime": {
+          "Телефонен_указател.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Телефонен_указател/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

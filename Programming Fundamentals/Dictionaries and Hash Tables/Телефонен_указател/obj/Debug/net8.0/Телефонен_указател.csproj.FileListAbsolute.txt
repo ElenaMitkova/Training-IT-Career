@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\bin\Debug\net8.0\Телефонен_указател.exe
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\bin\Debug\net8.0\Телефонен_указател.deps.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\bin\Debug\net8.0\Телефонен_указател.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\bin\Debug\net8.0\Телефонен_указател.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\bin\Debug\net8.0\Телефонен_указател.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\refint\Телефонен_указател.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\Телефонен_указател.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Телефонен_указател\obj\Debug\net8.0\ref\Телефонен_указател.dll
