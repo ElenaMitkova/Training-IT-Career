@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\JobBoard\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.exe
+C:\Users\Acer\source\repos\JobBoard\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.deps.json
+C:\Users\Acer\source\repos\JobBoard\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.runtimeconfig.json
+C:\Users\Acer\source\repos\JobBoard\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\JobBoard\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.dll
+C:\Users\Acer\source\repos\JobBoard\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.pdb
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.AssemblyInfo.cs
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.dll
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.pdb
+C:\Users\Acer\source\repos\JobBoard\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.genruntimeconfig.cache
