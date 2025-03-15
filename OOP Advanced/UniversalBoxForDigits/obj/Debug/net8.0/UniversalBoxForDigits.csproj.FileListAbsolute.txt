@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\bin\Debug\net8.0\UniversalBoxForDigits.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\bin\Debug\net8.0\UniversalBoxForDigits.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\bin\Debug\net8.0\UniversalBoxForDigits.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\bin\Debug\net8.0\UniversalBoxForDigits.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\bin\Debug\net8.0\UniversalBoxForDigits.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\refint\UniversalBoxForDigits.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\UniversalBoxForDigits.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBoxForDigits\obj\Debug\net8.0\ref\UniversalBoxForDigits.dll

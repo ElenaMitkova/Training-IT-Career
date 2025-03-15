@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\bin\Debug\net8.0\UniversalBox.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\bin\Debug\net8.0\UniversalBox.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\bin\Debug\net8.0\UniversalBox.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\bin\Debug\net8.0\UniversalBox.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\bin\Debug\net8.0\UniversalBox.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\refint\UniversalBox.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\UniversalBox.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\UniversalBox\obj\Debug\net8.0\ref\UniversalBox.dll

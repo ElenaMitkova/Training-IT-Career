@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\bin\Debug\net8.0\SwapElements.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\bin\Debug\net8.0\SwapElements.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\bin\Debug\net8.0\SwapElements.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\bin\Debug\net8.0\SwapElements.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\bin\Debug\net8.0\SwapElements.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\refint\SwapElements.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\SwapElements.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\SwapElements\obj\Debug\net8.0\ref\SwapElements.dll
