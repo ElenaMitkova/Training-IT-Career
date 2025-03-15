@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Train\Coffee Shop\bin\Debug\netcoreapp3.1\Coffee Shop.exe
+C:\Users\Acer\source\repos\Train\Coffee Shop\bin\Debug\netcoreapp3.1\Coffee Shop.deps.json
+C:\Users\Acer\source\repos\Train\Coffee Shop\bin\Debug\netcoreapp3.1\Coffee Shop.runtimeconfig.json
+C:\Users\Acer\source\repos\Train\Coffee Shop\bin\Debug\netcoreapp3.1\Coffee Shop.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Train\Coffee Shop\bin\Debug\netcoreapp3.1\Coffee Shop.dll
+C:\Users\Acer\source\repos\Train\Coffee Shop\bin\Debug\netcoreapp3.1\Coffee Shop.pdb
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.dll
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.pdb
+C:\Users\Acer\source\repos\Train\Coffee Shop\obj\Debug\netcoreapp3.1\Coffee Shop.genruntimeconfig.cache
