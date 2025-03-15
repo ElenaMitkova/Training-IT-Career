@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\bin\Debug\netcoreapp3.1\Магазин за шапки.exe
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\bin\Debug\netcoreapp3.1\Магазин за шапки.deps.json
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\bin\Debug\netcoreapp3.1\Магазин за шапки.runtimeconfig.json
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\bin\Debug\netcoreapp3.1\Магазин за шапки.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\bin\Debug\netcoreapp3.1\Магазин за шапки.dll
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\bin\Debug\netcoreapp3.1\Магазин за шапки.pdb
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.dll
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.pdb
+C:\Users\Acer\source\repos\Exam 2\Магазин за шапки\obj\Debug\netcoreapp3.1\Магазин за шапки.genruntimeconfig.cache
