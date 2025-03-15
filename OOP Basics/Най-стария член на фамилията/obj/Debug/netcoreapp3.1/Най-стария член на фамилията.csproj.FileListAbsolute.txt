@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\bin\Debug\netcoreapp3.1\Най-стария член на фамилията.exe
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\bin\Debug\netcoreapp3.1\Най-стария член на фамилията.deps.json
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\bin\Debug\netcoreapp3.1\Най-стария член на фамилията.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\bin\Debug\netcoreapp3.1\Най-стария член на фамилията.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\bin\Debug\netcoreapp3.1\Най-стария член на фамилията.dll
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\bin\Debug\netcoreapp3.1\Най-стария член на фамилията.pdb
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.dll
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.pdb
+C:\Users\Acer\source\repos\It Kariera ( Методи класове )\Най-стария член на фамилията\obj\Debug\netcoreapp3.1\Най-стария член на фамилията.genruntimeconfig.cache

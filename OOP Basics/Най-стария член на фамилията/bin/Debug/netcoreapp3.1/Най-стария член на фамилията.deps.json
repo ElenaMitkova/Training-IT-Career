@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Най-стария член на фамилията/1.0.0": {
+        "runtime": {
+          "Най-стария член на фамилията.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Най-стария член на фамилията/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
