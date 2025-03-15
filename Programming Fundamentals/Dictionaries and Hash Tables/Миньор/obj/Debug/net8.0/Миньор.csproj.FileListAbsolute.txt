@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\bin\Debug\net8.0\Миньор.exe
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\bin\Debug\net8.0\Миньор.deps.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\bin\Debug\net8.0\Миньор.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\bin\Debug\net8.0\Миньор.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\bin\Debug\net8.0\Миньор.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\refint\Миньор.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\Миньор.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Миньор\obj\Debug\net8.0\ref\Миньор.dll

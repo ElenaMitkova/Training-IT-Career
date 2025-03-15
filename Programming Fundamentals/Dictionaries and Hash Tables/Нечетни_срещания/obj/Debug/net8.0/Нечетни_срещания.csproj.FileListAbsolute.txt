@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\bin\Debug\net8.0\Нечетни_срещания.exe
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\bin\Debug\net8.0\Нечетни_срещания.deps.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\bin\Debug\net8.0\Нечетни_срещания.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\bin\Debug\net8.0\Нечетни_срещания.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\bin\Debug\net8.0\Нечетни_срещания.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\refint\Нечетни_срещания.dll
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.pdb
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\Нечетни_срещания.genruntimeconfig.cache
+C:\Users\Acer\source\repos\It Kariera (Речници и хеш-таблици)\Нечетни_срещания\obj\Debug\net8.0\ref\Нечетни_срещания.dll
