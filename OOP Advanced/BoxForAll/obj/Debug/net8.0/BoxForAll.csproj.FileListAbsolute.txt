@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\bin\Debug\net8.0\BoxForAll.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\bin\Debug\net8.0\BoxForAll.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\bin\Debug\net8.0\BoxForAll.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\bin\Debug\net8.0\BoxForAll.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\bin\Debug\net8.0\BoxForAll.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\refint\BoxForAll.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\BoxForAll.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\BoxForAll\obj\Debug\net8.0\ref\BoxForAll.dll

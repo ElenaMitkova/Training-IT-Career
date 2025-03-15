@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\bin\Debug\net8.0\GenericClass.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\bin\Debug\net8.0\GenericClass.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\bin\Debug\net8.0\GenericClass.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\bin\Debug\net8.0\GenericClass.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\bin\Debug\net8.0\GenericClass.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\refint\GenericClass.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\GenericClass.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)GenericClasses\GenericClass\obj\Debug\net8.0\ref\GenericClass.dll
