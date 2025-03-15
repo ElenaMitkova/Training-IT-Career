@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Acer\source\repos\Exam 30.06.2024\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
