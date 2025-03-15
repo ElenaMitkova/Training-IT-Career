@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\bin\Debug\net8.0\KDigit.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\bin\Debug\net8.0\KDigit.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\bin\Debug\net8.0\KDigit.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\bin\Debug\net8.0\KDigit.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\bin\Debug\net8.0\KDigit.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\refint\KDigit.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\KDigit.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\KDigit\obj\Debug\net8.0\ref\KDigit.dll

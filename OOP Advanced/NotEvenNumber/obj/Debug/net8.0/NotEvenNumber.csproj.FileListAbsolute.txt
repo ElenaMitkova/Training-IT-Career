@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\bin\Debug\net8.0\NotEvenNumber.exe
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\bin\Debug\net8.0\NotEvenNumber.deps.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\bin\Debug\net8.0\NotEvenNumber.runtimeconfig.json
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\bin\Debug\net8.0\NotEvenNumber.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\bin\Debug\net8.0\NotEvenNumber.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\refint\NotEvenNumber.dll
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.pdb
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\NotEvenNumber.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ItKariera(September-November)-DefineClasses\NotEvenNumber\obj\Debug\net8.0\ref\NotEvenNumber.dll
