@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\bin\Debug\netcoreapp3.1\ProblemBankAccount.exe
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\bin\Debug\netcoreapp3.1\ProblemBankAccount.deps.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\bin\Debug\netcoreapp3.1\ProblemBankAccount.runtimeconfig.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\bin\Debug\netcoreapp3.1\ProblemBankAccount.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\bin\Debug\netcoreapp3.1\ProblemBankAccount.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\bin\Debug\netcoreapp3.1\ProblemBankAccount.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.AssemblyInfo.cs
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.dll
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.pdb
+C:\Users\Acer\source\repos\It Kariera (Дефиниране на класове)\2\obj\Debug\netcoreapp3.1\ProblemBankAccount.genruntimeconfig.cache
