@@ -1,4 +1,4 @@
-# First Steps in Coding
+# Arrays and Lists
 Folder containing all exercises from the main lesson Arrays and Lists
 # Taken Lessons
  - Introduction to Arrays
